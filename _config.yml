@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'ko-kr'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /mediapunta.github.io/
+baseurl: /ghost2/
 
 # Website info
 title: Ghost Helion
